@@ -13,14 +13,14 @@ import videoBg from '../src/assets/video.mp4';
 import video1 from '../src/assets/reels/1.mp4';
 import video2 from '../src/assets/reels/2.mp4';
 import video3 from '../src/assets/reels/3.mp4';
- import video4 from '../src/assets/reels/4.mp4';
- import video5 from '../src/assets/reels/5.mp4';
- import video6 from '../src/assets/reels/6.mp4';
- import video7 from '../src/assets/reels/7.mp4';
- import video8 from '../src/assets/reels/8.mp4';
- import video9 from '../src/assets/reels/9.mp4';
- import video10 from '../src/assets/reels/10.mp4';
- import video11 from '../src/assets/reels/11.mp4';
+// import video4 from '../src/assets/reels/4.mp4';
+// import video5 from '../src/assets/reels/5.mp4';
+// import video6 from '../src/assets/reels/6.mp4';
+// import video7 from '../src/assets/reels/7.mp4';
+// import video8 from '../src/assets/reels/8.mp4';
+// import video9 from '../src/assets/reels/9.mp4';
+// import video10 from '../src/assets/reels/10.mp4';
+// import video11 from '../src/assets/reels/11.mp4';
 // import video12 from '../src/assets/reels/12.mp4';
 // import video13 from '../src/assets/reels/13.mp4';
 
@@ -32,14 +32,14 @@ const App = () => {
     video1,
     video2,
     video3,
-     video4,
-     video5,
-     video6,
-     video7,
-     video8,
-    video9,
-     video10,
-     video11,
+    // video4,
+    // video5,
+    // video6,
+    // video7,
+    // video8,
+    // video9,
+    // video10,
+    // video11,
     // video12,
     // video13,
   ];
