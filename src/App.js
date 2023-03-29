@@ -9,39 +9,24 @@ import './styles.css';
 //import video bg
 import videoBg from '../src/assets/video.mp4';
 
-// import videos
-import video1 from '../src/assets/reels/1.mp4';
-import video2 from '../src/assets/reels/2.mp4';
-import video3 from '../src/assets/reels/3.mp4';
-import video4 from '../src/assets/reels/4.mp4';
-import video5 from '../src/assets/reels/5.mp4';
-import video6 from '../src/assets/reels/6.mp4';
-import video7 from '../src/assets/reels/7.mp4';
-import video8 from '../src/assets/reels/8.mp4';
-import video9 from '../src/assets/reels/9.mp4';
-import video10 from '../src/assets/reels/10.mp4';
-import video11 from '../src/assets/reels/11.mp4';
-import video12 from '../src/assets/reels/12.mp4';
-import video13 from '../src/assets/reels/13.mp4';
-
 const App = () => {
   const [currentVideo, setCurrentVideo] = useState(null);
   const [videoIndex, setVideoIndex] = useState(null);
 
   const videos = [
-    video1,
-    video2,
-    video3,
-    video4,
-    video5,
-    video6,
-    video7,
-    video8,
-    video9,
-    video10,
-    video11,
-    video12,
-    video13,
+    'https://res.cloudinary.com/dj5wubw5n/video/upload/v1680066633/1_fx5d1q.mp4',
+    'https://res.cloudinary.com/dj5wubw5n/video/upload/v1680066912/2_oxbagv.mp4',
+    'https://res.cloudinary.com/dj5wubw5n/video/upload/v1680066977/3_ybcnsn.mp4',
+    // video4,
+    // video5,
+    // video6,
+    // video7,
+    // video8,
+    // video9,
+    // video10,
+    // video11,
+    // video12,
+    // video13,
   ];
 
   const [overlayVisible, setOverlayVisible] = useState(false);
