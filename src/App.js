@@ -11,8 +11,8 @@ import videoBg from '../src/assets/video.mp4';
 
 // import videos
 import video1 from '../src/assets/reels/1.mp4';
-// import video2 from '../src/assets/reels/2.mp4';
-// import video3 from '../src/assets/reels/3.mp4';
+import video2 from '../src/assets/reels/2.mp4';
+import video3 from '../src/assets/reels/3.mp4';
 // import video4 from '../src/assets/reels/4.mp4';
 // import video5 from '../src/assets/reels/5.mp4';
 // import video6 from '../src/assets/reels/6.mp4';
@@ -30,8 +30,8 @@ const App = () => {
 
   const videos = [
     video1,
-    // video2,
-    // video3,
+    video2,
+    video3,
     // video4,
     // video5,
     // video6,
