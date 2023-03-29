@@ -10,7 +10,7 @@ import './styles.css';
 import videoBg from '../src/assets/video.mp4';
 
 // import videos
-// import video1 from '../src/assets/reels/1.mp4';
+import video1 from '../src/assets/reels/1.mp4';
 // import video2 from '../src/assets/reels/2.mp4';
 // import video3 from '../src/assets/reels/3.mp4';
 // import video4 from '../src/assets/reels/4.mp4';
@@ -29,7 +29,7 @@ const App = () => {
   const [videoIndex, setVideoIndex] = useState(null);
 
   const videos = [
-    // video1,
+    video1,
     // video2,
     // video3,
     // video4,
