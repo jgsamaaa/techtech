@@ -154,7 +154,7 @@ body {
 
 /* screens bigger than 900px */
 @media (min-width: 900px) {
-  .page h1 padding: {
+  .page h1 {
     font-size: 4rem;
   }
   .page h3 {
